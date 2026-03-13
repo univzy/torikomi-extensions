@@ -1,6 +1,6 @@
 # AIO Extension Repository
 
-This repository contains the extension catalog and APK releases for [AIO Downloader](https://github.com/TobyG74/AIO-Downloader).
+This repository contains the extension catalog and APK releases for [AIO Downloader](https://github.com/univzy/torikomi-dev).
 
 ## How it works
 
