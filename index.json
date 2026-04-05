@@ -34,5 +34,23 @@
                 "versionId":  1
             }
         ]
+    },
+    {
+        "name":  "Torikomi: SnapSave Instagram",
+        "pkg":  "com.torikomi.extension_snapsave_instagram",
+        "apk":  "torikomi-multi.snapsave_instagram-v1.0.0.apk",
+        "lang":  "multi",
+        "code":  1,
+        "version":  "1.0.0",
+        "nsfw":  0,
+        "sources":  [
+            {
+                "name":  "SnapSave (Instagram)",
+                "lang":  "multi",
+                "id":  "1013",
+                "baseUrl":  "https://www.instagram.com",
+                "versionId":  1
+            }
+        ]
     }
 ]
