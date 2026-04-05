@@ -16,5 +16,23 @@
                 "versionId":  1
             }
         ]
+    },
+    {
+        "name":  "Torikomi: SnapSave Twitter",
+        "pkg":  "com.torikomi.extension_snapsave_twitter",
+        "apk":  "torikomi-multi.snapsave_twitter-v1.0.0.apk",
+        "lang":  "multi",
+        "code":  1,
+        "version":  "1.0.0",
+        "nsfw":  0,
+        "sources":  [
+            {
+                "name":  "SnapSave (Twitter/X)",
+                "lang":  "multi",
+                "id":  "1012",
+                "baseUrl":  "https://twitter.com",
+                "versionId":  1
+            }
+        ]
     }
 ]
