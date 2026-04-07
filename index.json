@@ -58,8 +58,8 @@
     },
     {
         "name":  "Torikomi: YT1S",
-        "pkg":  "com.torikomi.extension_youtube",
-        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_youtube.png",
+        "pkg":  "com.torikomi.extension_yt1s",
+        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_yt1s.png",
         "apk":  "torikomi-multi.youtube-v1.0.0.apk",
         "lang":  "multi",
         "code":  1,
