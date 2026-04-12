@@ -5,7 +5,7 @@
         "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_musicaldown.png",
         "apk":  "torikomi-multi.musicaldown-v1.0.0.apk",
         "lang":  "multi",
-        "code":  1,
+        "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
@@ -24,7 +24,7 @@
         "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_twitter.png",
         "apk":  "torikomi-multi.snapsave_twitter-v1.0.0.apk",
         "lang":  "multi",
-        "code":  1,
+        "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
@@ -43,7 +43,7 @@
         "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_instagram.png",
         "apk":  "torikomi-multi.snapsave_instagram-v1.0.0.apk",
         "lang":  "multi",
-        "code":  1,
+        "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
@@ -62,7 +62,7 @@
         "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_yt1s.png",
         "apk":  "torikomi-multi.yt1s-v1.0.0.apk",
         "lang":  "multi",
-        "code":  1,
+        "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
