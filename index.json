@@ -57,17 +57,17 @@
         ]
     },
     {
-        "name":  "Torikomi: YT1S",
-        "pkg":  "com.torikomi.extension_yt1s",
-        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_yt1s.png",
-        "apk":  "torikomi-multi.yt1s-v1.0.0.apk",
+        "name":  "Torikomi: YTDown",
+        "pkg":  "com.torikomi.extension_ytdown",
+        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_ytdown.png",
+        "apk":  "torikomi-multi.ytdown-v1.0.0.apk",
         "lang":  "multi",
         "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
             {
-                "name":  "YT1S (YouTube)",
+                "name":  "YTDown (YouTube)",
                 "lang":  "multi",
                 "id":  "1014",
                 "baseUrl":  "https://www.youtube.com",
