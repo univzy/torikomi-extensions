@@ -62,7 +62,7 @@
         "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_threads.png",
         "apk":  "torikomi-multi.snapsave_threads-v1.0.0.apk",
         "lang":  "multi",
-        "code":  1,
+        "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
@@ -78,10 +78,10 @@
     {
         "name":  "Torikomi: SnapSave Facebook",
         "pkg":  "com.torikomi.extension_snapsave_facebook",
-        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_facebook.png",
+        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_facebook.jpg",
         "apk":  "torikomi-multi.snapsave_facebook-v1.0.0.apk",
         "lang":  "multi",
-        "code":  1,
+        "code":  2,
         "version":  "1.0.0",
         "nsfw":  0,
         "sources":  [
