@@ -57,6 +57,25 @@
         ]
     },
     {
+        "name":  "Torikomi: SnapSave Threads",
+        "pkg":  "com.torikomi.extension_snapsave_threads",
+        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_threads.png",
+        "apk":  "torikomi-multi.snapsave_threads-v1.0.0.apk",
+        "lang":  "multi",
+        "code":  1,
+        "version":  "1.0.0",
+        "nsfw":  0,
+        "sources":  [
+            {
+                "name":  "SnapSave (Threads)",
+                "lang":  "multi",
+                "id":  "1016",
+                "baseUrl":  "https://www.threads.net",
+                "versionId":  1
+            }
+        ]
+    },
+    {
         "name":  "Torikomi: SnapSave Facebook",
         "pkg":  "com.torikomi.extension_snapsave_facebook",
         "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_snapsave_facebook.png",
