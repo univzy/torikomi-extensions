@@ -112,5 +112,24 @@
                 "versionId":  1
             }
         ]
+    },
+    {
+        "name":  "Torikomi: Spotmate",
+        "pkg":  "com.torikomi.extension_spotmate",
+        "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_spotmate.png",
+        "apk":  "torikomi-multi.spotmate-v1.0.0.apk",
+        "lang":  "multi",
+        "code":  2,
+        "version":  "1.0.0",
+        "nsfw":  0,
+        "sources":  [
+            {
+                "name":  "Spotmate Downloader (Spotify)",
+                "lang":  "multi",
+                "id":  "1017",
+                "baseUrl":  "https://open.spotify.com",
+                "versionId":  1
+            }
+        ]
     }
 ]
