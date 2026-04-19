@@ -35,6 +35,7 @@ torikomi-extensions/
 | Name | Package | Platform | Downloader | Source ID | Version |
 |---|---|---|---|---|---|
 | Torikomi: Musicaldown | `com.torikomi.extension_musicaldown` | TikTok | MusicalDown | 1001 | 1.0.0 |
+| Torikomi: Douyin | `com.torikomi.extension_douyin` | Douyin | Douyin | 1018 | 1.0.0 |
 | Torikomi: SnapSave Twitter | `com.torikomi.extension_snapsave_twitter` | Twitter/X | SnapSave | 1012 | 1.0.0 |
 | Torikomi: SnapSave Instagram | `com.torikomi.extension_snapsave_instagram` | Instagram | SnapSave | 1013 | 1.0.0 |
 | Torikomi: SnapSave Threads | `com.torikomi.extension_snapsave_threads` | Threads | SnapSave | 1016 | 1.0.0 |
@@ -148,5 +149,4 @@ Source IDs are used by the app to identify and route requests to the correct ext
 | 1015 | snapsave_facebook | Facebook |
 | 1016 | snapsave_threads | Threads |
 | 1017 | spotmate | Spotify |
-
-> Next available ID: **1018**
+| 1018 | douyin | Douyin |
