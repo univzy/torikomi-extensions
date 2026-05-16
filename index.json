@@ -150,5 +150,24 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Torikomi: WhatsApp Status",
+    "pkg": "com.torikomi.extension_whatsapp_status",
+    "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_whatsapp_status.png",
+    "apk": "torikomi-local.whatsapp_status-v1.0.0.apk",
+    "lang": "local",
+    "code": 2,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "WhatsApp Status",
+        "lang": "local",
+        "id": "2001",
+        "baseUrl": "https://www.whatsapp.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
