@@ -152,6 +152,25 @@
     ]
   },
   {
+    "name": "Torikomi: SoundCloudMate",
+    "pkg": "com.torikomi.extension_soundloadmate",
+    "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_soundloadmate.png",
+    "apk": "torikomi-multi.soundloadmate-v1.0.1.apk",
+    "lang": "multi",
+    "code": 2,
+    "version": "1.0.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "SoundCloudMate (SoundCloud)",
+        "lang": "multi",
+        "id": "1020",
+        "baseUrl": "https://soundcloud.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Torikomi: WhatsApp Status",
     "pkg": "com.torikomi.extension_whatsapp_status",
     "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_whatsapp_status.png",
