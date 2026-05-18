@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="torikomi.png" width="250" alt="Torikomi" />
 </p>
 
@@ -34,14 +34,14 @@ torikomi-extensions/
 
 | Name | Package | Platform | Downloader | Source ID | Version |
 |---|---|---|---|---|---|
-| Torikomi: Musicaldown | `com.torikomi.extension_musicaldown` | TikTok | MusicalDown | 1001 | 1.0.0 |
-| Torikomi: Douyin | `com.torikomi.extension_douyin` | Douyin | Douyin | 1018 | 1.0.0 |
-| Torikomi: SnapSave Twitter | `com.torikomi.extension_snapsave_twitter` | Twitter/X | SnapSave | 1012 | 1.0.0 |
-| Torikomi: SnapSave Instagram | `com.torikomi.extension_snapsave_instagram` | Instagram | SnapSave | 1013 | 1.0.0 |
-| Torikomi: SnapSave Threads | `com.torikomi.extension_snapsave_threads` | Threads | SnapSave | 1016 | 1.0.0 |
-| Torikomi: SnapSave Facebook | `com.torikomi.extension_snapsave_facebook` | Facebook | SnapSave | 1015 | 1.0.0 |
-| Torikomi: YTDown | `com.torikomi.extension_ytdown` | YouTube | YTDown | 1014 | 1.0.0 |
-| Torikomi: Spotmate | `com.torikomi.extension_spotmate` | Spotify | Spotmate Downloader | 1017 | 1.0.0 |
+| Torikomi: Musicaldown | `com.torikomi.extension_musicaldown` | TikTok | MusicalDown | 1001 | 1.0.1 |
+| Torikomi: Douyin | `com.torikomi.extension_douyin` | Douyin | Douyin | 1018 | 1.0.1 |
+| Torikomi: SnapSave Twitter | `com.torikomi.extension_snapsave_twitter` | Twitter/X | SnapSave | 1012 | 1.0.1 |
+| Torikomi: SnapSave Instagram | `com.torikomi.extension_snapsave_instagram` | Instagram | SnapSave | 1013 | 1.0.1 |
+| Torikomi: SnapSave Threads | `com.torikomi.extension_snapsave_threads` | Threads | SnapSave | 1016 | 1.0.1 |
+| Torikomi: SnapSave Facebook | `com.torikomi.extension_snapsave_facebook` | Facebook | SnapSave | 1015 | 1.0.1 |
+| Torikomi: YTDown | `com.torikomi.extension_ytdown` | YouTube | YTDown | 1014 | 1.0.1 |
+| Torikomi: Spotmate | `com.torikomi.extension_spotmate` | Spotify | Spotmate Downloader | 1017 | 1.0.1 |
 
 ## Catalog URLs
 
@@ -57,10 +57,10 @@ torikomi-extensions/
   "name": "Torikomi: Musicaldown",
   "pkg": "com.torikomi.extension_musicaldown",
   "icon": "https://raw.githubusercontent.com/univzy/torikomi-extensions/master/icon/com.torikomi.extension_musicaldown.png",
-  "apk": "torikomi-multi.musicaldown-v1.0.0.apk",
+  "apk": "torikomi-multi.musicaldown-v1.0.1.apk",
   "lang": "multi",
   "code": 2,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "nsfw": 0,
   "sources": [
     {
@@ -97,9 +97,9 @@ torikomi-{lang}.{module_id}-v{version}.apk
 ```
 
 Examples:
-- `torikomi-multi.musicaldown-v1.0.0.apk`
-- `torikomi-multi.spotmate-v1.0.0.apk`
-- `torikomi-multi.ytdown-v1.0.0.apk`
+- `torikomi-multi.musicaldown-v1.0.1.apk`
+- `torikomi-multi.spotmate-v1.0.1.apk`
+- `torikomi-multi.ytdown-v1.0.1.apk`
 
 ## Managing the Catalog
 
