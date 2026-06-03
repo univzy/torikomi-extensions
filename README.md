@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="torikomi.png" width="250" alt="Torikomi" />
 </p>
 
@@ -35,13 +35,17 @@ torikomi-extensions/
 | Name | Package | Platform | Downloader | Source ID | Version |
 |---|---|---|---|---|---|
 | Torikomi: Musicaldown | `com.torikomi.extension_musicaldown` | TikTok | MusicalDown | 1001 | 1.0.1 |
-| Torikomi: Douyin | `com.torikomi.extension_douyin` | Douyin | Douyin | 1018 | 1.0.1 |
-| Torikomi: SnapSave Twitter | `com.torikomi.extension_snapsave_twitter` | Twitter/X | SnapSave | 1012 | 1.0.1 |
-| Torikomi: SnapSave Instagram | `com.torikomi.extension_snapsave_instagram` | Instagram | SnapSave | 1013 | 1.0.1 |
-| Torikomi: SnapSave Threads | `com.torikomi.extension_snapsave_threads` | Threads | SnapSave | 1016 | 1.0.1 |
-| Torikomi: SnapSave Facebook | `com.torikomi.extension_snapsave_facebook` | Facebook | SnapSave | 1015 | 1.0.1 |
-| Torikomi: YTDown | `com.torikomi.extension_ytdown` | YouTube | YTDown | 1014 | 1.0.1 |
-| Torikomi: Spotmate | `com.torikomi.extension_spotmate` | Spotify | Spotmate Downloader | 1017 | 1.0.1 |
+| Torikomi: Douyin | `com.torikomi.extension_douyin` | Douyin | Douyin Downloader | 1002 | 1.0.0 |
+| Torikomi: SnapSave Twitter | `com.torikomi.extension_snapsave_twitter` | Twitter/X | SnapSave | 1003 | 1.0.0 |
+| Torikomi: SnapSave Instagram | `com.torikomi.extension_snapsave_instagram` | Instagram | SnapSave | 1004 | 1.0.0 |
+| Torikomi: YTDown | `com.torikomi.extension_ytdown` | YouTube | YTDown | 1007 | 1.0.0 |
+| Torikomi: SnapSave Facebook | `com.torikomi.extension_snapsave_facebook` | Facebook | SnapSave | 1006 | 1.0.0 |
+| Torikomi: SnapSave Threads | `com.torikomi.extension_snapsave
+_threads` | Threads | SnapSave | 1005 | 1.0.0 |
+| Torikomi: Spotmate | `com.torikomi.extension_spotmate` | Spotify | Spotmate Downloader | 1008 | 1.0.0 |
+| Torikomi: SoundLoadMate | `com.torikomi.extension_soundloadmate` | SoundCloud | SoundLoadMate | 1009 | 1.0.0 |
+| Torikomi: WhatsApp Status | `com.torikomi.extension_whatsapp_status` | WhatsApp (local) | Use WhatsApp Directly | 1010 | 1.0.0 |
+| Torikomi: BskySaver | `com.torikomi.extension_bskysaver` | Bluesky | BskySaver | 1011 | 1.0.0 |
 
 ## Catalog URLs
 
@@ -142,11 +146,14 @@ Source IDs are used by the app to identify and route requests to the correct ext
 
 | Source ID | Extension | Platform |
 |---|---|---|
-| 1001 | musicaldown | TikTok |
-| 1012 | snapsave_twitter | Twitter/X |
-| 1013 | snapsave_instagram | Instagram |
-| 1014 | ytdown | YouTube |
-| 1015 | snapsave_facebook | Facebook |
-| 1016 | snapsave_threads | Threads |
-| 1017 | spotmate | Spotify |
-| 1018 | douyin | Douyin |
+| 1001 | Musicaldown | TikTok |
+| 1002 | Douyin | Douyin |
+| 1003 | SnapSave Twitter | Twitter/X |
+| 1004 | SnapSave Instagram | Instagram |
+| 1007 | YTDown | YouTube |
+| 1006 | SnapSave Facebook | Facebook |
+| 1005 | SnapSave Threads | Threads |
+| 1008 | Spotmate | Spotify |
+| 1009 | SoundLoadMate | SoundCloud |
+| 1010 | WhatsApp Status | WhatsApp (local) |
+| 1011 | BskySaver | Bluesky |
